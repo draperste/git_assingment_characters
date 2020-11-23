@@ -23,5 +23,14 @@ while (cont.lower() == "y"):
  if x == "Spider-Man":
   print ("With great power there must also come great responsibility.")
 
+ if x == "Dobby":
+  print ("Dobby is Free!")
+
+if x == "Sherlock Holmes":
+  print ("THe game is a foot!")
+
+ if x == "Obi-Wan Kenobi":
+  print ("If you strike me down, I shall become more powerful than you can possibly imagine.")
+
 
  cont = input ("Do you want anther character? [y/n] ")
