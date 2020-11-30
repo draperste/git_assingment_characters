@@ -26,7 +26,7 @@ while (cont.lower() == "y"):
  if x == "Dobby":
   print ("Dobby is Free!")
 
-if x == "Sherlock Holmes":
+ if x == "Sherlock Holmes":
   print ("THe game is a foot!")
 
  if x == "Obi-Wan Kenobi":
